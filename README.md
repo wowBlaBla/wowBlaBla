@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=climax-solution&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=wowBlaBla&column=7&theme=onedark"/>
 </p>
